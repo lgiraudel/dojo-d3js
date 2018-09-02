@@ -1,0 +1,30 @@
+svg {
+  border: 1px solid black;
+  cursor: move;
+}
+
+.graticule {
+  fill: none;
+  /*stroke: #777;*/
+  stroke: white;
+  stroke-width: .3px;
+  stroke-opacity: .7;
+}
+
+.country {
+  fill: forestgreen;
+  stroke: #fff;
+  stroke-width: 0.5px;
+}
+
+.country:hover {
+  fill: darkgreen;
+}
+
+.country.selected {
+  fill: yellowgreen;
+}
+
+.globe {
+  fill: royalblue;
+}

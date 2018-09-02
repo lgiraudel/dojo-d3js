@@ -1,0 +1,8 @@
+svg {
+  border: 1px solid black;
+}
+
+.clock-hand {
+  stroke: white;
+  stroke-width: 1;
+}

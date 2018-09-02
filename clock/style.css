@@ -1,0 +1,23 @@
+svg {
+  border: 1px solid black;
+}
+
+.outercircle {
+  stroke: black;
+  stroke-width: 2px;
+  fill: transparent;
+}
+
+.innercircle {
+  fill: black;
+}
+
+
+.clock-hand {
+  stroke: black;
+  stroke-width: 2;
+}
+
+.clock-hand-big {
+  stroke-width: 4;
+}
